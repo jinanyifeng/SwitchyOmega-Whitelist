@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Thu May 30 10:24:26 2024
+; Update @ Fri May 31 10:23:58 2024
 
 ; cn域名都不走代理
 *.cn
@@ -7854,6 +7854,7 @@
 *.adzop.com
 *.adzshd.com
 *.ae-people.com
+*.ae1234.com
 *.ae256.com
 *.ae60.com
 *.aebiz.net
@@ -9699,6 +9700,7 @@
 *.aslk2018.com
 *.aslzw.com
 *.asm64.com
+*.asmasm.com
 *.asmr.red
 *.asnlab.com
 *.asnlab.org
@@ -23934,7 +23936,6 @@
 *.fft123.com
 *.fftub.com
 *.ffxivhuntcn.com
-*.ffyinxiang.com
 *.ffzww.com
 *.fg.cc
 *.fgcndigital.com
@@ -26569,6 +26570,7 @@
 *.gpautobid.com
 *.gpbctv.com
 *.gpbeta.com
+*.gpboke.com
 *.gpcang.com
 *.gpcqjy.com
 *.gpd.hk
@@ -29652,7 +29654,6 @@
 *.hj-mail.com
 *.hj.vc
 *.hj110.com
-*.hjagent.com
 *.hjapi.com
 *.hjbbs.com
 *.hjbxw.com
@@ -29901,7 +29902,6 @@
 *.hndscg.com
 *.hndt.com
 *.hndxzte.com
-*.hnehome.net
 *.hnemb.com
 *.hnetn.com
 *.hnfa.org
@@ -30858,7 +30858,6 @@
 *.huangyuehe.com
 *.huangyuhui.net
 *.huangyunkun.com
-*.huangz.me
 *.huangze.net
 *.huanhaoba.com
 *.huanhuanhuishou.com
@@ -31171,7 +31170,6 @@
 *.huilintyre.com
 *.huilitao.com
 *.huiliubao.com
-*.huiliuti.com
 *.huilm.com
 *.huilog.com
 *.huilongsen.com
@@ -39621,6 +39619,7 @@
 *.li-ca.com
 *.li-ning.com
 *.li-world.com
+*.li.auto
 *.li63.com
 *.li91.com
 *.liageren.com
@@ -39791,7 +39790,6 @@
 *.liebiao.com
 *.liechan.com
 *.liedaoshou.com
-*.liegou.org
 *.lieguo.com
 *.lieguozhi.com
 *.liehunwang.com
@@ -46763,7 +46761,6 @@
 *.paahu.com
 *.paalermat.com
 *.paascloud.net
-*.paasmi.com
 *.paat.com
 *.pabulika.com
 *.pacdn.com
@@ -47812,7 +47809,6 @@
 *.pmquanzi.com
 *.pmr66.com
 *.pmsmzyy.com
-*.pmsra.com
 *.pmtalk.club
 *.pmtemple.com
 *.pmtown.com
@@ -49812,7 +49808,6 @@
 *.quchao.net
 *.quchew.com
 *.quclouds.com
-*.qudah5.com
 *.qudao.com
 *.qudao168.com
 *.qudaowuyou.com
@@ -53051,7 +53046,6 @@
 *.shidapx.com
 *.shidastudy.com
 *.shidiao136.com
-*.shidz.com
 *.shifair.com
 *.shifang.tech
 *.shifen.com
@@ -60998,7 +60992,6 @@
 *.waimaimingtang.com
 *.waimaiwanjia.com
 *.waimao6.com
-*.waimaolangtz.com
 *.waimaoribao.com
 *.waimaozhuge.com
 *.waimungfire.com
@@ -62648,7 +62641,6 @@
 *.wine-world.com
 *.wine9.com
 *.winegame.net
-*.wineln.com
 *.winemagz.com
 *.winenice.com
 *.wines-info.com
@@ -69168,7 +69160,6 @@
 *.yu7l.com
 *.yuan-motel.com
 *.yuan7i.com
-*.yuanbao.com
 *.yuanbaobaoxian.com
 *.yuanbaohui.com
 *.yuanbaokc.com
@@ -69593,6 +69584,7 @@
 *.yunna.me
 *.yunnandns.com
 *.yunnanjun.com
+*.yunnanuu.com
 *.yunnao.com
 *.yunnex.com
 *.yunos-tv.com
