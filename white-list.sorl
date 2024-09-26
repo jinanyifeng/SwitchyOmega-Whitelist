@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Wed Sep 25 10:29:18 2024
+; Update @ Thu Sep 26 10:27:50 2024
 
 ; cn域名都不走代理
 *.cn
@@ -7759,7 +7759,6 @@
 *.9718game.com
 *.9724.com
 *.973.com
-*.973211.com
 *.97616.net
 *.97654.com
 *.97775.com
@@ -7943,7 +7942,6 @@
 *.99ielts.com
 *.99inn.cc
 *.99jianzhu.com
-*.99jiaoshi.com
 *.99jiasu.com
 *.99jiasu.net
 *.99jrk.com
@@ -8261,6 +8259,7 @@
 *.abcjifang.com
 *.abckantu.com
 *.abclogs.com
+*.abcpost.com.au
 *.abcs8.com
 *.abcsbank.com
 *.abcve.com
@@ -9421,7 +9420,6 @@
 *.alayu.com
 *.albertaz.com
 *.alcy.cc
-*.aldcup.com
 *.aldeee.com
 *.aldgo.com
 *.aldnew.com
@@ -15133,6 +15131,7 @@
 *.calb-tech.com
 *.calculusdata.com
 *.caldigit.net
+*.caledoniancable.com
 *.calendarli.com
 *.cali-light.com
 *.callbei.com
@@ -16978,7 +16977,6 @@
 *.chillyroom.com
 *.chilunyc.com
 *.chiluyingxiao.com
-*.chimaoyoupin.com
 *.chimatong.com
 *.chimelong.com
 *.chimezi.com
@@ -20445,7 +20443,6 @@
 *.cspplaza.com
 *.cspro.org
 *.cspruc.com
-*.cspxw.com
 *.csqc.cc
 *.csqnews.com
 *.csqqym.com
@@ -24597,7 +24594,6 @@
 *.e2esoft.com
 *.e2say.com
 *.e360e.com
-*.e360xs.com
 *.e365mall.com
 *.e3j.co
 *.e3ol.com
@@ -31051,7 +31047,6 @@
 *.gubo.org
 *.gucciblog.net
 *.guccistar.com
-*.gucheng.com
 *.gucn.com
 *.gucun.info
 *.gucunpark.net
@@ -31477,7 +31472,6 @@
 *.gxaijun.com
 *.gxaist.com
 *.gxaixier.com
-*.gxaljyy.com
 *.gxalt.com
 *.gxaltcl.com
 *.gxanchen.com
@@ -32327,7 +32321,6 @@
 *.gxjmxy.com
 *.gxjmzg.com
 *.gxjnbgzx.com
-*.gxjnty.com
 *.gxjowy.com
 *.gxjpfs.com
 *.gxjpjs.com
@@ -34151,7 +34144,6 @@
 *.haidaoteam.com
 *.haidaotrip.com
 *.haidaozhu.com
-*.haidehd.com
 *.haidii.com
 *.haidilao.com
 *.haidilao.net
@@ -34504,7 +34496,6 @@
 *.hanyuwatch.com
 *.hanyya.com
 *.hanzhesh.com
-*.hanzheyoupin.com
 *.hanzhong123.com
 *.hanzify.org
 *.hanziguan.com
@@ -37696,7 +37687,6 @@
 *.huadie.com
 *.huadonghospital.com
 *.huadongmedia.com
-*.huadoo.com
 *.huadream.com
 *.huadun315.com
 *.huaduocai.net
@@ -42595,7 +42585,6 @@
 *.jiecao.com
 *.jiechengcehui.com
 *.jiechengcloud.com
-*.jiechunqiu.com
 *.jiedaibao.com
 *.jiediankeji.com
 *.jiefadg.com
@@ -43144,7 +43133,6 @@
 *.jishuchi.com
 *.jishukong.com
 *.jishulink.com
-*.jishuqq.com
 *.jishusongshu.com
 *.jishux.com
 *.jisi17.com
@@ -44317,7 +44305,6 @@
 *.juben68.com
 *.juben98.com
 *.juc365.com
-*.jucai185.com
 *.jucanw.com
 *.jucelin.com
 *.jucha.com
@@ -46780,7 +46767,6 @@
 *.kwudor.com
 *.kwx.gd
 *.kwxjh.net
-*.kwznkj.com
 *.kx-turbo.com
 *.kx001.com
 *.kx1978.com
@@ -47855,6 +47841,7 @@
 *.lengliwh.com
 *.lengshuiji.org
 *.lengxiaohua.com
+*.lengyankj.com
 *.lengzzz.com
 *.lening100.com
 *.leniugame.com
@@ -47963,7 +47950,6 @@
 *.letsvisa.com
 *.lettercloud.net
 *.letuinet.com
-*.letuknowit.com
 *.letushu.com
 *.letv.com
 *.letvapp.net
@@ -50938,7 +50924,6 @@
 *.malong.com
 *.malsmiles.com
 *.maltm.com
-*.mama-mo.com
 *.mama100.com
 *.mamacn.com
 *.mamahao.com
@@ -57147,7 +57132,6 @@
 *.papa91.com
 *.papago.hk
 *.papajohnshanghai.com
-*.papapoi.com
 *.papaquan.com
 *.papatya.store
 *.papegames.com
@@ -57835,7 +57819,6 @@
 *.pinghu.tech
 *.pinghui-cn.com
 *.pingjiata.com
-*.pingju365.com
 *.pingnanlearning.com
 *.pingnantong.com
 *.pingnuosoft.com
@@ -58070,7 +58053,6 @@
 *.plfrog.com
 *.plll-fluid.com
 *.plob.org
-*.plotcup.com
 *.plotsuz.com
 *.plottinglogistics.com
 *.plqdf.com
@@ -66294,7 +66276,6 @@
 *.socialgongz-edu.com
 *.socite.com
 *.socket.tw
-*.sockip.com
 *.socolar.com
 *.socomic.com
 *.socool-tech.com
@@ -66417,7 +66398,6 @@
 *.solidigm-asdf.com
 *.solidigm-zxcv.com
 *.solidot.org
-*.soliloquize.org
 *.solo-launcher.com
 *.solochex.com
 *.soloknight.xyz
@@ -67446,7 +67426,6 @@
 *.sunfounder.cc
 *.sunfront.com
 *.sunft.com
-*.sungacn.com
 *.sungainyeast.com
 *.sungari1995.com
 *.sungesoft.com
@@ -71265,7 +71244,6 @@
 *.tuhu.com
 *.tuhu.org
 *.tuhu.work
-*.tuhusmart.com
 *.tui18.com
 *.tui56.com
 *.tuiaaaa.com
@@ -72135,7 +72113,6 @@
 *.umihome.com
 *.umilu.com
 *.umindex.com
-*.uminehotel.com
 *.uminsky.com
 *.umiwi.com
 *.umiwx.com
@@ -75625,7 +75602,6 @@
 *.wjhouses.com
 *.wjhtxx.com
 *.wjiaxing.com
-*.wjika.com
 *.wjin.cc
 *.wjinmiao.com
 *.wjjfjt.com
@@ -77799,7 +77775,6 @@
 *.xiaobafood.com
 *.xiaobai.com
 *.xiaobaibar.net
-*.xiaobaichongw.com
 *.xiaobaipan.com
 *.xiaobaishiji.com
 *.xiaobaishixi.com
